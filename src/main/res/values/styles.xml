@@ -1,0 +1,7 @@
+<resources>
+<style name="MyDialog" parent="@android:style/Theme.Dialog">
+    <item name="android:windowMinWidthMajor">85%</item>
+    <item name="android:windowMinWidthMinor">85%</item>
+    <item name="android:windowBackground">@color/colorWater2</item>
+</style>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GraftToaster</string>
+    <string name="name_item_title">title</string>
+    <string name="name_item1">item1</string>
+    <string name="name_item2">item2</string>
+    <string name="name_item3">item3</string>
+    <string name="name_item4">item4</string>
+    <string name="name_item5">item5</string>
+</resources>

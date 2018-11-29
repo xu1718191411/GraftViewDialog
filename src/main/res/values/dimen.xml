@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="default72">72dp</dimen>
+    <dimen name="default56">56dp</dimen>
+    <dimen name="default48">48dp</dimen>
+    <dimen name="default32">32dp</dimen>
+    <dimen name="default16">16dp</dimen>
+    <dimen name="default8">8dp</dimen>
+    <dimen name="default4">4dp</dimen>
+    <dimen name="foot_work_dialog_item_height">50dp</dimen>
+</resources>
